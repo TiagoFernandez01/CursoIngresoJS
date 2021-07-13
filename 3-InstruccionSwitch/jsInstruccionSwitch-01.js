@@ -21,29 +21,19 @@ function mostrar() {
 
 
 
-
-
-
-
-
-
-
-
-
-
 	/*if (mes == "Enero") {
-		alert("que comiencen bien el año");
-
-	} else if (mes == "Marzo") {
-		alert("a clases");
-
-	} else if (mes == "Julio") {
-		alert("se vienen las vacaciones");
-
-	} else if (mes == "Diciembre") {
-		alert("felices fiestas");
-
-	}*/
+			alert("que comiencen bien el año");
+	
+		} else if (mes == "Marzo") {
+			alert("a clases");
+	
+		} else if (mes == "Julio") {
+			alert("se vienen las vacaciones");
+	
+		} else if (mes == "Diciembre") {
+			alert("felices fiestas");
+	
+		}*/
 
 }
 
