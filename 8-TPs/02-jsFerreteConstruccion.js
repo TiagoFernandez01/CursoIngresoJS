@@ -9,6 +9,7 @@ function Rectangulo ()
     let Largodelterreno 
     let anchodelterreno 
     let radiodelterreno
+    let suma
     Largodelterreno = parseInt(document.getElementById("txtIdLargo").value);
     anchodelterreno = parseInt(document.getElementById("txtIdAncho").value);
     radiodelterreno = parseInt(document.getElementById("txtIdRadio").value);
@@ -23,6 +24,7 @@ function Circulo ()
     let Largodelterreno 
     let anchodelterreno 
     let radiodelterreno
+    let radio
     Largodelterreno = parseInt(document.getElementById("txtIdLargo").value);
     anchodelterreno = parseInt(document.getElementById("txtIdAncho").value);
     radiodelterreno = parseInt(document.getElementById("txtIdRadio").value);
